@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3F51B5"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NATIONAL EMERGENCY NUMBER
+112
+POLICE
+100
+FIRE
+101
+AMBULANCE
+102
+Disaster Management Services
+108
+Women Helpline
+1091
+Women Helpline - ( Domestic Abuse )
+181
+Air Ambulance
+9540161344
+Aids Helpline
+1097
+Anti Poison ( New Delhi )
+1066  or
+011-1066
+Disaster Management ( N.D.M.A )  : 011-26701728
+1078" />
+
